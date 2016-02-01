@@ -1,0 +1,28 @@
+name: 'Sysmaint '
+favicon: null
+layout_spectrum: 0.18758768890984356
+typography_spectrum: 0.7456705677323043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6163217253051698
+  lightness: 0.18214244302362204
+  saturation: 0.21334911067970097
+  rhythmicContrast: 0.5658993725664914
+purpose: []
